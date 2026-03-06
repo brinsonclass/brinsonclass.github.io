@@ -1,6 +1,6 @@
 ---
 title: page2
-permalink: /
+permalink: /page2/
 ---
 
 page 2 is here
