@@ -1,12 +1,14 @@
 ---
 ---
 
+@import url('https://cdn.jsdelivr.net/npm/@fontsource/cascadia-code/index.css');
+
 /* =====================
    EASY STYLE CONTROLS
    ===================== */
 
 /* Fonts */
-$base-font-family: Georgia, serif;
+$base-font-family: 'Cascadia Code', monospace;
 $base-font-size:   18px;
 $base-line-height: 1.7;
 
