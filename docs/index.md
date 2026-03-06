@@ -1,5 +1,5 @@
 ---
-title: Public
+title: root
 permalink: /
 ---
 
