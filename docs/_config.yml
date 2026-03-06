@@ -2,3 +2,7 @@ title: 128
 baseurl: /128
 url: https://peterbrinson.com
 theme: minima
+
+header_pages:
+  - index.md
+  - page2.md

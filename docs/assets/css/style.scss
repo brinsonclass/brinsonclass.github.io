@@ -1,0 +1,23 @@
+---
+---
+
+/* =====================
+   EASY STYLE CONTROLS
+   ===================== */
+
+/* Fonts */
+$base-font-family: Georgia, serif;
+$base-font-size:   18px;
+$base-line-height: 1.7;
+
+/* Colors */
+$background-color: #ffffff;
+$text-color:       #222222;
+$brand-color:      #555555;   /* links, header accents */
+
+/* Page width */
+$content-width:    800px;
+
+@import "minima";
+
+/* Additional overrides below */
