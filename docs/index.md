@@ -3,9 +3,4 @@ title: root
 permalink: /
 ---
 
-public webpage
-
-second thought
-
-
-third thought....1112223334444
+[[Publish/docs/171/index|index]]
