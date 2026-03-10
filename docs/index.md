@@ -3,4 +3,4 @@ title: root
 permalink: /
 ---
 
-[[Publish/docs/171/index|index]]
+https://brinsonclass.github.io/171
