@@ -1,5 +1,5 @@
 ---
-title: root
+title: Brinson Classes
 permalink: /
 ---
 
